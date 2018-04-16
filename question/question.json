@@ -1,0 +1,29 @@
+{
+  "intents":[
+    {
+      "type":"text",
+      "patterns":["hi","xin chào"],
+      "response":"Chào cậu -br - Gõ (help) để tôi giúp cậu"
+    },
+    {
+      "type":"text",
+      "patterns":["info"],
+      "response":"Tôi tên là Bomi -brCảm ơn tới: IndieTeam"
+    },
+    {
+      "type":"text",
+      "patterns":["help"],
+      "response":"Gõ: -br - Chat: Chat với người lạ-br - Info: Thông tin Chatbot -br - Image: Xem ảnh của trường -br - Tkb: Xem thời khóa biểu -br - Id: Xem ID"
+    },
+    {
+      "type":"image",
+      "patterns":["image"],
+      "response":["http://static.panoramio.com/photos/large/97833237.jpg","https://i.ytimg.com/vi/WmCNQCHBTQg/maxresdefault.jpg","https://i.ytimg.com/vi/PHS6WeTWDhA/maxresdefault.jpg"]
+    },
+    {
+      "type":"text",
+      "patterns":["science"],
+      "response":"- Khoa Công nghệ thông tin -br - Khoa Công nghệ Điện tử - Truyền thông -br - Khoa Công nghệ tự động hóa -br - Khoa Hệ thống thông tin kinh tế -br - Bộ môn Truyền thông đa phương tiện (Trực thuộc trường) -br - Bộ môn An toàn hệ thống thông tin (Trực thuộc trường) -br - Khoa Khoa học cơ bản"
+    }
+  ]
+}
